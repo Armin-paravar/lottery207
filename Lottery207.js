@@ -1,4 +1,3 @@
-// dark mode
 const toggleSwitch = document.getElementById("input-darkmode");
 
 function switchTheme(e) {
